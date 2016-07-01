@@ -6,4 +6,4 @@ def myfunc(a, b):
 
 a = 1
 
-myfunc(a)
+myfunc(a,b=3)
